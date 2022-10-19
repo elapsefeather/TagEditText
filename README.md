@@ -1,6 +1,7 @@
 # TagEditText
 
-[![](https://jitpack.io/v/elapsefeather/TagEditText.svg)](https://jitpack.io/#elapsefeather/TagEditText)
+[![](https://jitpack.io/v/elapsefeather/TagEditText.svg)](https://jitpack.io/#elapsefeather/TagEditText)   
+tag 標記樣式、選單列表，可自訂 顯示介面、回傳資料處理格式 及 tag 色彩樣式
 
 ## sample
 
