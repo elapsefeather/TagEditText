@@ -5,7 +5,7 @@ tag 標記樣式、選單列表，可自訂 顯示介面、回傳資料處理格
 
 ## sample
 
-<img src="https://github.com/elapsefeather/TagEditText/blob/b0240c3949324cec3c65fac92afbaecfff11d74a/screenshots/TagEditText.gif" height="500">  <img src="https://github.com/elapsefeather/TagEditText/blob/b0240c3949324cec3c65fac92afbaecfff11d74a/screenshots/TagEditText2.gif" height="500">
+<img src="https://github.com/elapsefeather/TagEditText/blob/b0240c3949324cec3c65fac92afbaecfff11d74a/screenshots/TagEditText.gif" height="500">   <img src="https://github.com/elapsefeather/TagEditText/blob/4d370b92828f098940a622e5cbb7cc802ae0e808/screenshots/TagEditText3.gif" height="500">
 
 ## Setup
 
