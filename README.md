@@ -126,6 +126,10 @@ public class TagAdapter extends BaseTagAdapter {
         tagEdit.setAdapter(new TagAdapter(this, R.layout.item_tag, tagList));
 ```
 
+## References
+
+thank <a href="https://github.com/hearsilent/TagEditText">hearsilent/TagEditText</a>
+
 ## Version History
 
 > ### v1.0.0(2022/10/18)
